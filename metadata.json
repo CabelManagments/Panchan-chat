@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Local Messenger",
+  "description": "A sophisticated, high-performance messenger that uses the browser's BroadcastChannel API for real-time local communication and LocalStorage for persistence. Features AI-powered assistance via Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
